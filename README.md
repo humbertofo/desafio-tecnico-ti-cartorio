@@ -70,11 +70,14 @@ Segurança jurídica exige comprovação de que os atos notariais foram salvos s
 
 Para avaliar sua familiaridade com o fluxo profissional de Git e GitHub, siga este processo:
 
-### 1. No GitHub:
-1. Faça um **Fork** deste repositório para o seu próprio perfil do GitHub (ou clone e suba em um novo repositório na sua conta).
-2. Se preferir manter sua solução privada, crie um repositório privado e adicione o usuário **`humbertofo`** como colaborador.
-3. Crie uma branch chamada `solucao-[seu-nome]` (ex: `solucao-rodrigo-fernandes`) ou comite diretamente na sua branch principal.
-4. Faça commits organizados à medida que resolver cada módulo.
+### 1. Preparação no seu GitHub (Repositório Privado OBRIGATÓRIO):
+> ⚠️ **Importante (Sigilo do Processo):** Para garantir o sigilo das respostas e igualdade entre os concorrentes, **não faça Fork público**. Crie um **repositório privado** na sua conta:
+
+1. **Baixe os arquivos** (via Git Clone ou Download ZIP) deste repositório para o seu computador.
+2. No seu GitHub pessoal, crie um **novo repositório** com visibilidade **Privada (Private)** (ex: `desafio-ti-cartorio`).
+3. Suba os arquivos base para o seu repositório privado.
+4. Acesse **Settings > Collaborators** do seu repositório e adicione o usuário **`humbertofo`** como colaborador (necessário para que a equipe de TI consiga avaliar sua entrega).
+5. Crie uma branch chamada `solucao-[seu-nome]` (ex: `solucao-rodrigo-fernandes`) e faça commits organizados à medida que resolver cada tarefa.
 
 ### 2. O que deve conter no seu repositório:
 * O script `cartorio_toolkit.py` funcional e documentado.
