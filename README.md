@@ -102,7 +102,7 @@ Envie um e-mail para **`humberto.oliveira@cartorioleandrofelix.com.br`** com o s
 ---
 
 ## ⏱️ Prazo de Entrega
-* O prazo é de até **48 horas** após o recebimento do convite.
+* **Data Limite:** Até **Segunda-feira, 19/10/2026 às 12:00h** (horário de Brasília). Soluções enviadas após este horário não serão computadas.
 
 Boa sorte! Queremos ver como você estrutura seu código, sua linha de raciocínio e seu compromisso técnico.
 
