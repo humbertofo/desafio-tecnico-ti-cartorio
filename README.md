@@ -66,8 +66,40 @@ Segurança jurídica exige comprovação de que os atos notariais foram salvos s
 
 ---
 
-## ⏱️ Prazo e Forma de Envio
-* **Prazo de entrega:** Até **48 horas** a partir do recebimento.
-* **Envio:** Suba sua solução em um repositório no seu GitHub (público ou privado convidando nosso time) ou envie o arquivo compactado em resposta ao e-mail (`RH@CARTORIOLEANDROFELIX.COM.BR`) ou WhatsApp do Cartório.
+## 📤 Como Realizar a Entrega (Passo a Passo)
 
-Boa sorte! Demonstre sua capacidade de criar soluções limpas, defensivas e bem documentadas.
+Para avaliar sua familiaridade com o fluxo profissional de Git e GitHub, siga este processo:
+
+### 1. No GitHub:
+1. Faça um **Fork** deste repositório para o seu próprio perfil do GitHub (ou clone e suba em um novo repositório na sua conta).
+2. Se preferir manter sua solução privada, crie um repositório privado e adicione o usuário **`humbertofo`** como colaborador.
+3. Crie uma branch chamada `solucao-[seu-nome]` (ex: `solucao-rodrigo-fernandes`) ou comite diretamente na sua branch principal.
+4. Faça commits organizados à medida que resolver cada módulo.
+
+### 2. O que deve conter no seu repositório:
+* O script `cartorio_toolkit.py` funcional e documentado.
+* O arquivo `TRILHA_INVESTIGACAO.md` (renomeado a partir de `TRILHA_INVESTIGACAO_TEMPLATE.md`) com todas as seções preenchidas.
+* O arquivo `config.json` e os arquivos de teste originais preservados.
+
+### 3. Envio da Solução:
+Envie um e-mail para **`humberto.oliveira@cartorioleandrofelix.com.br`** com o seguinte formato:
+
+* **Para:** `humberto.oliveira@cartorioleandrofelix.com.br`
+* **Assunto:** `[Desafio Técnico TI - Cartório Leandro Félix] Solução - [Seu Nome Completo]`
+* **Corpo do e-mail:**
+  > Olá, Humberto!  
+  > Segue o link com a minha solução do desafio técnico para a vaga de Suporte Técnico em T.I:  
+  > 🔗 **Link do meu repositório:** `https://github.com/[seu-usuario]/desafio-tecnico-ti-cartorio`  
+  >  
+  > *Breve resumo da minha abordagem:* [1 a 2 parágrafos contando como estruturou a solução]  
+  > *Meu WhatsApp de contato:* [Seu Telefone]  
+  >  
+  > Fico à disposição para a defesa técnica e entrevista!
+
+---
+
+## ⏱️ Prazo de Entrega
+* O prazo é de até **48 horas** após o recebimento do convite.
+
+Boa sorte! Queremos ver como você estrutura seu código, sua linha de raciocínio e seu compromisso técnico.
+
