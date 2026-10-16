@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.idea/
+backup_local/*.zip
+logs/*.log
+logs/ticket_glpi_gerado.txt
+!backup_local/.gitkeep
+!logs/.gitkeep

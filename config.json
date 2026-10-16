@@ -1,0 +1,10 @@
+{
+  "instituicao": "Cartório Leandro Félix",
+  "cidade": "Caldas Novas - GO",
+  "dns_servidor_esperado": "10.0.0.231",
+  "limite_alerta_disco_percentual": 20,
+  "diretorio_dados_cartorio": "./dados_cartorio",
+  "diretorio_backup_destino": "./backup_local",
+  "arquivo_log_auditoria": "./logs/auditoria_cartorio.log",
+  "arquivo_ticket_glpi": "./logs/ticket_glpi_gerado.txt"
+}
